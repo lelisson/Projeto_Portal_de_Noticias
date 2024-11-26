@@ -52,3 +52,7 @@ img {
 main {
   margin-top: 40px;
 }
+
+.content-tag {
+  display: inline-block;
+}
